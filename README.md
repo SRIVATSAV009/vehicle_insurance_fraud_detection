@@ -38,3 +38,15 @@ The optimized model achieved:
 * **AUC Score:** Strong classifier performance for fraud vs. non-fraud
 
 
+## 📁 **Repository Structure**
+
+```
+│── data/                 # Dataset (or instructions to download)
+│── notebooks/            # Jupyter notebooks for EDA & modeling
+│── src/                  # Python scripts for the full ML pipeline
+│── models/               # Saved model artifacts
+│── reports/              # PDF project report/visuals
+│── README.md             # Project documentation
+```
+
+
